@@ -18,7 +18,7 @@ It will use the port 3000 on your machine.
 
 'src' folder isn't made with [Create React App](https://github.com/facebook/create-react-app).
 
-
+All credits go to Udemy course : "React et Redux par la pratique" made by Samir Medjdoub.
 
 
 
