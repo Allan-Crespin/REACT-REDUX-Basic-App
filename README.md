@@ -1,3 +1,29 @@
+# REACT-REDUX Basic App
+
+This repository contains a basic application made with react and redux and respecting the three rules of redux.
+
+The code contains the reduc dev-tools config and the acces to the redux store from the console.
+
+To run this project :
+```
+npm install
+```
+then : 
+```
+npm start
+```
+
+It will use the port 3000 on your machine.
+
+
+'src' folder isn't made with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
